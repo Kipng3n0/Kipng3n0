@@ -2,6 +2,7 @@
 
 🎓 **BSc Computer Science Graduate** from the University of Eldoret  
 👨‍💻 **Full Stack Developer** with over 3 years of experience, specializing in both web and mobile application development. 
+
 🌍 Based in **Nairobi, Kenya**  
 
 ## 🚀 About Me
@@ -19,9 +20,9 @@ I'm passionate about web and mobile app development, focusing on solving real-wo
 - **Communication:** Excellent teamwork and collaboration skills
 
 ## 💼 Work Philosophy
--** Adaptability:** I embrace flexibility in my work, choosing projects that align with my passions and push my boundaries.
+-**Adaptability:** I embrace flexibility in my work, choosing projects that align with my passions and push my boundaries.
 - **Diversity of Experience:** I believe tackling varied technical challenges fosters growth and innovation, allowing me to learn from every project.
--** Empowerment:** I take ownership of my career, making strategic decisions that drive my professional development and contribute to impactful outcomes.
+-   **Empowerment:** I take ownership of my career, making strategic decisions that drive my professional development and contribute to impactful outcomes.
 ## 🌱What I Aspire To
 - Innovative Projects: I'm eager to collaborate on cutting-edge web and mobile development initiatives that push the boundaries of technology.
 - Creative Collaboration: I thrive in dynamic teams that foster creativity and welcome diverse perspectives.
