@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Dennis Kipngeno!
 
 🎓 **BSc Computer Science Graduate** 
+
 👨‍💻 **Full Stack Developer** with over 3 years of experience, specializing in both web and mobile application development. 
 
 🌍 Based in **Nairobi, Kenya**  
