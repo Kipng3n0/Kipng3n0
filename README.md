@@ -14,6 +14,7 @@ I'm passionate about web and mobile app development, focusing on solving real-wo
 - **Mobile Development:** Proficient in Android development using Kotlin and Jetpack Compose
 - **Software Development Tools:** Git, Android Studio, Visual Studio Code
 - **Web Development Technologies:** Basic knowledge of HTML, CSS, JavaScript, PHP
+- **Computer Graphics:** OpenGL and WebGl using C, C++ and JavaScript
 - **UI/UX Collaboration:** Experience working with designers to implement user-friendly interfaces
 - **Testing & Optimization:** Knowledge of performance testing, debugging, and app optimization
 - **Version Control:** Experienced with Git for managing code repositories
