@@ -1,10 +1,9 @@
-# 👋 Hi there, I'm Dennis Kipngeno!
+# 👋 Hi there, I'm Gitsel Rangel!
 
 🎓 **BSc Computer Science Graduate** 
 
 👨‍💻 **Full Stack Developer** with over 5 years of experience, specializing in both web and mobile application development. 
-
-🌍 Based in **Nairobi, Kenya**  
+  
 
 ## 🚀 About Me
 I'm passionate about web and mobile app development, focusing on solving real-world problems with technology. I enjoy taking on impactful, short-term projects as a freelancer, and I thrive in remote work environments.
@@ -31,7 +30,7 @@ I'm passionate about web and mobile app development, focusing on solving real-wo
 - Continuous Learning: I seek opportunities that challenge me to grow both technically and personally, enhancing my skill set and professional network.
 
 ## 📫 Let's Connect
-Feel free to reach out to me on [LinkedIn] kipngenodennis27@gmail.com
+Feel free to reach out to me 
 
 
 Thanks for visiting my profile! Looking forward to connecting!
