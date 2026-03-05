@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gitsel Rangel!
+# 👋 Hi there, I'm Dennis Kipngeno!
 
 🎓 **BSc Computer Science Graduate** 
 
